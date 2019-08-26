@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ViewScn410</string>
+    <string name="ripiu">Chassis Scania K410IB</string>
+    <string name="deskripsi">Mesin <i>Premium</i> pabrikan swedia yaitu Scania K410Ib merupakan pesaing berat dari rivalnya Mercedes-Benz OC500RF 2542 yang mengisi segmen sumbu 3 axle di Indonesia</string>
+    <string name="mesin">13 litre DC13 107 EURO 3
+4-stroke 6-cylinder in-line, 4-valves per cylinder,
+turbo-charged, intercooled, Scania PDE injection
+(separate electromagnetically controlled unit injectors)
+and air cleaner.
+Maximum Output
+301 kW (410 hp) @ 1,900 r/min
+Maximum Torque
+2,000 Nm @ 1,000 – 1,350 r/min
+Equipped with:
+Cruise Control
+Speed Limiter
+Centrifugal engine oil cleaner</string>
+    <string name="gearbox">GR875R, 8-speed Scania Opticruise with kick-down
+and oil cooling for gearbox.</string>
+    <string name="retarder">Scania Retarder – automatic and manual control.</string>
+    <string name="coolingsystem">Hydraulic driven, temperature – regulated cooling fan
+at 80°C.</string>
+    <string name="fuelsystem">500 litres aluminium tank, fuel filter chassis mounted
+with water separator.</string>
+    <string name="bas">Disc brakes on front and rear axle, full air brakes with
+independent circuits for front, rear parking circuits,
+with following as standard:
+• Electronic Stability Programme (ESP)
+• Electronically controlled Anti-lock Braking System
+(EBS)
+• Traction Control (TC)
+• Interlock valve with parking brake
+• Asbestos-free linings
+• Hill Hold function</string>
+    <string name="airdryer">High capacity air dryer with intelligent compressor
+control and oil separator.</string>
+    <string name="suspension">Front (2) and rear (4) and tag axle (2) air bellows, with
+heavy duty shock absorbers, anti-roll bars on all axles.
+Total raising and lowering suspension.</string>
+    <string name="steering">Hydraulic powered. Fully adjustable steering
+wheel column, with air-powered locking mechanism.
+Right hand drive.</string>
+    <string name="ees">Alternator : Heavy duty 150A + 150A
+Master Switch : Located at batteries
+Batteries : 2 x 220 Ah capacity
+(Maintenance-free)</string>
+    <string name="instugauges">Speedometer km/h; r/min meter; air pressure; fuel;
+temperature; LCD multi-display panel, individual start
+function key with engine stop request, automatic return
+on direction indicator level with button for
+windscreen washing.</string>
+    <string name="tehcspec">Front axle load (Max) : 7,500 kg
+Rear axle load (Max) : 11,500 kg
+Tag axle load (Max) : 6,000 kg
+Gross vehicle weight : 25,000 kg</string>
+    <string name="dimensi">Axle distance (A) : 5,850 mm (variable)
+Bogie distance (B) : 1,300 mm
+Front overhang (I) : 2,500 mm
+Rear overhang (J) : 4,000 mm
+Chassis length : 12,350 mm (variable)
+Chassis width : 2,500 mm</string>
+</resources>
+
